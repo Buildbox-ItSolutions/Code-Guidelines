@@ -9,9 +9,9 @@
 
 0.0.x - Bug Resolved
 
-0.x.0 - Major Change
+0.x.0 - Major Change / New Sprint / New Feature Added
 
-x.0.0 - New Feature Added
+x.0.0 - Big Change / Like New OS Version
 
 # Importing
 
