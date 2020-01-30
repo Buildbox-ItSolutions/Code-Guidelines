@@ -7,7 +7,7 @@
 
 # Versioning
 
-0.0.x - Bug Resolved
+0.0.x - Bug fixed
 
 0.x.0 - Major Change / New Sprint / New Feature Added
 
